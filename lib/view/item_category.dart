@@ -7,8 +7,8 @@ class ItemCategory extends StatefulWidget {
 
 class _ItemCategoryState extends State<ItemCategory> {
   final List<String> category = [
-    'Watch',
     'Wallet',
+    'Watch',
     'Accessories',
     'Glasses',
     'Footwear',
